@@ -27,3 +27,5 @@ let p1 = new Promise((resolve,reject)=>{
   promise_error.then((value)=>{
     console.log(value)
   })
+
+  console.log("hi there")
